@@ -1,10 +1,10 @@
 # Tasmota-VINDSTYRKA
-Integration to Tasmota and VINDSTYRKA
+Integration of Tasmota and VINDSTYRKA
 
 I recently picked up two of the IKEA VINDSTYRKA for use in my home...
 So, obviously, I wanted to integrate the devices into my home monitoring system.
 
-Searching the web, I found a references on disassembling the VINDSTYRKA, inside was a Sensirion SEN54 sensor
+Searching the web, I found a reference on disassembling the VINDSTYRKA, inside was a Sensirion SEN54 sensor
 and a circuit board with an LCD controller chip and a Silicon Lab MGM210L22F ZigBee chip.
 
 The first place to look for help was in Tasmota, and yes a driver was available for the SEN54 sensor used in the VINDSTYRKA
