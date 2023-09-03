@@ -20,9 +20,11 @@ on I2C have issues in many cases, and we were now getting some erratic reading o
 Search the Tasmota source code, I found a reference to Option156, which put the SEN54 drive​r in ​I2C listen​ mode.
 I open the Tasmota console, and set Option156 1, to enable.
 
+I also set Option8 1, to set deg F.
+
 Issues resolved.
 
-Some photos of my installation are included here for reference.
+I've included some photos of my installation here for you to look over.
 
 Reference:
 
